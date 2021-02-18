@@ -1,0 +1,22 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Journey Through The Secret Life of Plants",
+      "cover": "https://images.genius.com/262c8f1837cd4bd760d92cd548df4872.953x953x1.jpg",
+      "year": 1979
+    },
+    {
+      "id": 2,
+      "title": "The Wild Palms",
+      "cover": "https://i.imgur.com/S0DJ7XA.jpg",
+      "year": 2014
+    },
+    {
+      "title": "n-Plants",
+      "cover": "https://img.discogs.com/QRQnwzfOK_63nS8MlCF-Ea-9Bpo=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2859491-1307097672.jpeg.jpg",
+      "year": "2011",
+      "id": 3
+    }
+  ]
+}

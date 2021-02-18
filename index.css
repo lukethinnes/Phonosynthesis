@@ -1,0 +1,149 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+.title {
+    border-style: solid;
+    border-radius: 3px;
+    margin-bottom: 140px;
+    margin-right: 470px;
+    margin-left: 470px;
+    height: 120px;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 2px 2px rgba(255, 255, 255, 0.4);
+    color: rgb(29, 10, 10);
+    font-size: 90pt;
+    margin-top: -10px;
+}
+
+body {
+    background-image: url("https://4.bp.blogspot.com/-kobWxc6xiM8/XnVa-trJfsI/AAAAAAABAAE/D3euEBsSL0cgbjOHw6Ij0N4Z_EPiFcs3ACLcBGAsYHQ/s72-c/Palm%2BSunshine%2BGIF.gif");
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.container {
+    margin-top: -40px;
+    display: block;
+    text-align: center;
+}
+
+.add-album {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: left; */
+}
+
+.add-button {
+    position: relative;
+  background-color: #009e1a;
+  border-radius: 2px;
+  height: 2rem;
+  width: max-content;
+  color: whitesmoke;
+  font-size: 18px;
+  justify-self: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  margin: 3px;
+}
+
+#banner {
+    margin-top: -100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540%;
+    box-shadow: 6px 6px 6px rgba(255, 255, 255, 0.5);
+}
+
+h2 {
+    background-color: rgb(255, 167, 221);
+    border-radius: 900px;
+    margin-left: 480px;
+    margin-right: 480px;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 0.5px 0.5px rgba(255, 255, 255, 0.9);
+    color: rgb(0, 20, 2);
+    font-family: 'Alex Brush', cursive;
+}
+
+h3 {
+    font-size: 44px;
+    text-shadow: 0.5px 0.5px rgba(255, 255, 255, 0.9);
+}
+
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background: -webkit-linear-gradient( to left top, rgb(37, 0, 68), white);
+    background: -moz-linear-gradient( to left top, rgb(32, 0, 53), white);
+    /* background: -ms-linear-gradient( to left top, rgb(102, 0, 133), white); */
+    background: -o-linear-gradient( to left top, rgb(78, 0, 109), white);
+    background: linear-gradient( to left top, rgb(29, 0, 61), white);
+}
+
+img {
+    max-width: 920px;
+}
+
+.card {
+    text-shadow: 0.5px 0.5px rgba(255, 255, 255, 0.9);
+    /* background-color: rgba(255, 185, 238, 0.8); */
+    background: linear-gradient( to left top, rgba(255, 164, 191, 0.7), white);
+  text-align: center;
+  border: grey solid 1px;
+  border-radius: 30px;
+  padding: 1rem;
+  width: 15rem;
+  height: 25rem;
+  display: inline-grid;
+  margin: 1rem 2rem;
+  box-shadow: 3px 4px rgba(58, 0, 43, 0.8)
+}
+
+.cover {
+    max-width: 200px;
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+}
+
+button {
+  position: relative;
+  background-color: #e04b52;
+  border: none;
+  border-radius: 5px;
+  height: 3rem;
+  width: max-content;
+  color: whitesmoke;
+  font-size: 18px;
+  justify-self: center;
+}
+
+button:hover {
+  background-color: whitesmoke;
+  border: #e04b52 solid 1px;
+  color: #e04b52;
+}
+
+.container {
+    margin-top: 30px;
+    margin-left: 480px;
+    margin-right: 480px;
+  height: auto;
+  background: #ffffff;
+  opacity: .8;
+}
+
+.bottom {
+    margin-top: -800px;
+}

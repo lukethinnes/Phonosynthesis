@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>PHONOSYNTHESIS</title>
+</head>
+
+<body>
+    <div class="title">
+        <h1 id='title'>PHONOSYNTHESIS</h1>
+    </div>
+    <img id='banner'
+        src="https://greenmylife-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Effect-of-music-on-plants.jpg"
+        alt="plantkeys">
+    <h2>"Where Roots Meet Roots"</h2>
+    <div class="container">
+        <form class="add-album">
+            <h3 style='text-align:center'>Add a record:</h3>
+            <input style='text-align:center' type="text" name='title' placeholder='Enter the title here...'>
+            <br />
+            <input style='text-align:center' type="text" name='cover' placeholder='Link the artwork here...'>
+            <br />
+            <input style='text-align:center' type="integer" name='year' placeholder='Add the year here...'>
+            <br />
+            <input type='submit' class='add-button' value='Synthesize!'>
+        </form>
+    </div>
+    <div id="albums"></div>
+    <audio class="audio" controls="controls" autoplay volume="0.6" style='display:none;'>
+        <source src="https://docs.google.com/uc?export=download&id=16o902JLxEEeXMdENwjHHZh47QkUj1b0S">
+    </audio>
+    <script type='text/javascript' src='src/index.js'></script>
+</body>
+
+</html>
