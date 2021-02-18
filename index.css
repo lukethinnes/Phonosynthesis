@@ -6,8 +6,8 @@
     border-style: solid;
     border-radius: 3px;
     margin-bottom: 140px;
-    margin-right: 470px;
-    margin-left: 470px;
+    margin-right: 485px;
+    margin-left: 485px;
     height: 120px;
 }
 
@@ -35,6 +35,7 @@ body {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 20px;
     /* text-align: left; */
 }
 
@@ -62,10 +63,9 @@ body {
 
 h2 {
     background-color: rgb(255, 167, 221);
-    border-radius: 900px;
-    margin-left: 480px;
-    margin-right: 480px;
-    font-size: 40px;
+    margin-left: 485px;
+    margin-right: 485px;
+    font-size: 60px;
     text-align: center;
     text-shadow: 0.5px 0.5px rgba(255, 255, 255, 0.9);
     color: rgb(0, 20, 2);
@@ -96,18 +96,19 @@ img {
 }
 
 .card {
+    padding-top: -200px;
+    margin-bottom: 400px;
     text-shadow: 0.5px 0.5px rgba(255, 255, 255, 0.9);
-    /* background-color: rgba(255, 185, 238, 0.8); */
     background: linear-gradient( to left top, rgba(255, 164, 191, 0.7), white);
-  text-align: center;
-  border: grey solid 1px;
-  border-radius: 30px;
-  padding: 1rem;
-  width: 15rem;
-  height: 25rem;
-  display: inline-grid;
-  margin: 1rem 2rem;
-  box-shadow: 3px 4px rgba(58, 0, 43, 0.8)
+    text-align: center;
+    border: grey solid 1px;
+    border-radius: 30px;
+    padding: 1rem;
+    width: 15rem;
+    height: 25rem;
+    display: inline-grid;
+    margin: 1rem 2rem;
+    box-shadow: 3px 4px rgba(58, 0, 43, 0.8)
 }
 
 .cover {
@@ -119,31 +120,39 @@ img {
 
 button {
   position: relative;
-  background-color: #e04b52;
+  background-color: #260027;
   border: none;
-  border-radius: 5px;
   height: 3rem;
   width: max-content;
   color: whitesmoke;
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 18px;
   justify-self: center;
 }
 
 button:hover {
   background-color: whitesmoke;
-  border: #e04b52 solid 1px;
-  color: #e04b52;
+  border: #00ff62 solid 1px;
+  color: #00ff15;
 }
 
 .container {
     margin-top: 30px;
-    margin-left: 480px;
-    margin-right: 480px;
+    margin-left: 485px;
+    margin-right: 485px;
   height: auto;
   background: #ffffff;
   opacity: .8;
 }
 
+.caption {
+    font-size: 40px;
+    text-shadow: 1px 1px rgb(255, 255, 255);
+    margin-top: 10px;
+    text-align: center;
+}
 .bottom {
-    margin-top: -800px;
+    text-shadow: white;
+    text-align: center;
+    margin-top: 800px;
 }
