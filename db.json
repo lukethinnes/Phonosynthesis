@@ -1,22 +1,34 @@
 {
   "albums": [
     {
-      "id": 1,
-      "title": "Journey Through The Secret Life of Plants",
-      "cover": "https://images.genius.com/262c8f1837cd4bd760d92cd548df4872.953x953x1.jpg",
-      "year": 1979
-    },
-    {
       "id": 2,
       "title": "The Wild Palms",
       "cover": "https://i.imgur.com/S0DJ7XA.jpg",
       "year": 2014
     },
     {
-      "title": "n-Plants",
-      "cover": "https://img.discogs.com/QRQnwzfOK_63nS8MlCF-Ea-9Bpo=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2859491-1307097672.jpeg.jpg",
-      "year": "2011",
-      "id": 3
+      "title": "Green",
+      "cover": "https://f4.bcbits.com/img/a4196363254_10.jpg",
+      "year": "1986",
+      "id": 4
+    },
+    {
+      "title": "East Plants",
+      "cover": "https://img.discogs.com/5-hzdmhrt0--BPAMEh9hG3cwb_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12525894-1538124612-6939.jpeg.jpg",
+      "year": "1983",
+      "id": 5
+    },
+    {
+      "title": "Water Plants",
+      "cover": "https://img.discogs.com/Js3LRb_suJ0dw24ssUlIP1wExAo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2318952-1404320804-9211.jpeg.jpg",
+      "year": "1977",
+      "id": 6
+    },
+    {
+      "title": "Plantasia",
+      "cover": "https://img.discogs.com/nfMEmIL3ekBcbmL1v7IncOqa65Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530794-1439928943-2386.jpeg.jpg",
+      "year": "1977",
+      "id": 8
     }
   ]
 }
